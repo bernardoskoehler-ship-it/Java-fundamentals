@@ -20,3 +20,9 @@ To develop logical thinking and understand core programming concepts.
 
 ## 📌 Status
 In progress
+
+## ▶️ How to run
+
+1. Clone the repository
+2. Open in your IDE (IntelliJ, Eclipse, VS Code)
+3. Run the Main class
